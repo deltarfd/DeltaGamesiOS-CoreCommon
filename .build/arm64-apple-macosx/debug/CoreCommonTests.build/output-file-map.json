@@ -1,0 +1,19 @@
+{
+  "": {
+    "swift-dependencies": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/primary.swiftdeps"
+  },
+  "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/Tests/CoreCommonTests/LocalizationTests.swift": {
+    "dependencies": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/LocalizationTests.d",
+    "object": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/LocalizationTests.swift.o",
+    "swiftmodule": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/LocalizationTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/LocalizationTests.swiftdeps",
+    "diagnostics": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/LocalizationTests.dia"
+  },
+  "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/Tests/CoreCommonTests/UseCaseTests.swift": {
+    "dependencies": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/UseCaseTests.d",
+    "object": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/UseCaseTests.swift.o",
+    "swiftmodule": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/UseCaseTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/UseCaseTests.swiftdeps",
+    "diagnostics": "/Users/deltadelviansyah/Documents/Development/Others/DeltaGamesiOS/Modules/CoreCommon/.build/arm64-apple-macosx/debug/CoreCommonTests.build/UseCaseTests.dia"
+  }
+}
