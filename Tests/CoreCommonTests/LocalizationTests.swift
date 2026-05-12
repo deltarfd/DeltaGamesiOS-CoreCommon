@@ -16,4 +16,16 @@ final class LocalizationTests: XCTestCase {
 
     XCTAssertEqual(value, "Home")
   }
+
+  func testLocalizedReturnsKeyWhenUnknownAndFallbackEmpty() {
+    let value = CommonLocalization.localized("unknown.key.without.fallback")
+
+    XCTAssertEqual(value, "unknown.key.without.fallback")
+  }
+
+  func testLocalizedReturnsEmptyWhenKeyAndFallbackAreEmpty() {
+    let value = CommonLocalization.localized("", fallback: "")
+
+    XCTAssertEqual(value, "")
+  }
 }
